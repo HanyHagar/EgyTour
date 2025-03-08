@@ -73,6 +73,7 @@ class MyApp extends StatelessWidget {
                   home: Directionality(
                     textDirection: TextDirection.ltr,
                     child: SplashView(),
+
                   ),
                 );
               },
